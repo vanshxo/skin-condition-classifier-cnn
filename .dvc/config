@@ -1,0 +1,4 @@
+[core]
+    remote = temp
+['remote "temp"']
+    url = /Users/skin-condition-classifier/dvc_track
