@@ -9,7 +9,7 @@ import numpy as np
 # 4->rosacea
 # 5->milia
 
-model=joblib.load('models/model2.joblib')
+model=joblib.load('model2.joblib')
 
 st.title('Skin Condition Classifier')
 st.write('Upload an image of skin to get the desired prediction')
