@@ -19,5 +19,5 @@ streamlit
 
 pandas
 numpy
-
+urllib3
 
