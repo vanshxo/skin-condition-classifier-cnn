@@ -20,4 +20,4 @@ streamlit
 pandas
 numpy
 urllib3
-
+requests
